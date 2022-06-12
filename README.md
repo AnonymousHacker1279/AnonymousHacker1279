@@ -1,8 +1,11 @@
 ### Hello, humanoids.
 
-I am AnonymousHacker1279, the public menace of the internet.
+It is I, AnonymousHacker1279. I am a growing developer from Catawba, North Carolina.
 
-I'm an avid programmer and engineer, who also enjoys gaming, rock and heavy metal, and critical thinking.
+I'm an avid programmer and engineer, who also enjoys gaming, rock and heavy metal, and critical thinking. A man that sometimes has a plan.
+
+I try to do a bit of everything.
+
 
 ![](https://github.com/AnonymousHacker1279/AnonymousHacker1279/blob/master/generated/overview.svg)
 ![](https://github.com/AnonymousHacker1279/AnonymousHacker1279/blob/master/generated/languages.svg)
